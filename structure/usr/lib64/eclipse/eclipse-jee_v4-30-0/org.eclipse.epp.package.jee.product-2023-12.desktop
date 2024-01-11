@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=Eclipse JEE - 2023-12
+Exec=/usr/lib64/eclipse/eclipse-platform/eclipse_v4-30-0 --launcher.ini /usr/lib64/eclipse/eclipse-jee_v4-30-0/eclipse.ini
+Categories=Eclipse
+Icon=/usr/lib64/eclipse/eclipse-jee_v4-30-0/icon.xpm
+Name[en_US]=Eclipse JEE - 2023-12
+
